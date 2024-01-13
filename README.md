@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahu Sharma</h1>
 <h3 align="center">Computer Science. Quantum Computing Student. Reclusive like a neutrino. A photon to the higgs field of giving up.</h3>
-<img aling="center" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"
+<img aling="center" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 I’m currently working on [Raskbind](https://raskbindcoffee.shop/)
 
