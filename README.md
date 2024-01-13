@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahu Sharma</h1>
 <h3 align="center">Computer Science. Quantum Computing Student. Reclusive like a neutrino. A photon to the higgs field of giving up.</h3>
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF5yc2VT04&#x2F;watch?utm_content=DAF5yc2VT04&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Blue and White Illustrative Playful Basic Ai Tools YouTube Thumbnail</a> by LIMITED GAMING
 - 🔭 I’m currently working on [Raskbind](https://raskbindcoffee.shop/)
 
 - 👯 I’m looking to collaborate on [Bluelearn](https://www.bluelearn.in/)
