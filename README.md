@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahu Sharma</h1>
-<h3 align="center">Passionate Front-End Developer</h3>
+<h3 align="center">Computer Science. Quantum Computing Student. Reclusive like a neutrino. A photon to the higgs field of giving up.</h3>
 
 - 🔭 I’m currently working on [Raskbind](https://raskbindcoffee.shop/)
 
