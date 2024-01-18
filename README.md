@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 <h3 align="center">Computer Science. Quantum Computing Student. Reclusive like a neutrino. A photon to the higgs field of giving up.</h3>
 <div class="img">
-    <img alt="coding" height="400vh" width="100vh" src="https://media.itsnicethat.com/original_images/skillshare_abbey_lossing_animation_illustration_sponsored_content_itsnic_Z3u1787.gif">
+    <img alt="coding" src="https://media.itsnicethat.com/original_images/skillshare_abbey_lossing_animation_illustration_sponsored_content_itsnic_Z3u1787.gif">
 
   </div>
 
