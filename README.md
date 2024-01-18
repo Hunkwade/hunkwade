@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 <h3 align="center">Computer Science. Quantum Computing Student. Reclusive like a neutrino. A photon to the higgs field of giving up.</h3>
 <div class="img">
-    <img alt="coding" height="400vh" width="100vh" src="https://www.bram.us/wordpress/wp-content/uploads/2022/03/calculate-specificity-animated-resized.gif">
+    <img alt="coding" height="400vh" width="100vh" src="https://i.redd.it/3sd25n878gp81.gif">
 
   </div>
 
