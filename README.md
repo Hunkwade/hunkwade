@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul </h1>
-<h3 align="center">Computer Science. Quantum Computing Student. Reclusive like a neutrino. A photon to the higgs field of giving up.</h3>
+<h3 align="center">Computer Science & Quantum Computing enthusiast Reclusive like a neutrino  A photon in the Higgs field of perseverance</h3>
 <div class="img">
     <img alt="coding" src="https://media.itsnicethat.com/original_images/skillshare_abbey_lossing_animation_illustration_sponsored_content_itsnic_Z3u1787.gif">
 
